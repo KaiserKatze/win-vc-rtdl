@@ -1,0 +1,4 @@
+LIBRARY		katze
+VERSION		1.0
+EXPORTS
+	animalGetName	@1
